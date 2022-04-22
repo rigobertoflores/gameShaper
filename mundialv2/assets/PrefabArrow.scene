@@ -1,0 +1,66 @@
+{
+    "id": "244e69bb-5a5b-4915-bf72-674de555ebb0",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Sprite",
+            "id": "b83f1d7d-39cd-4678-93ba-165f9b969fbe",
+            "label": "arrow",
+            "components": [],
+            "texture": {
+                "key": "arrow"
+            },
+            "scaleX": 2,
+            "scaleY": 2.3,
+            "angle": -90,
+            "originX": 0,
+            "tintTopLeft": "#b5cdd9",
+            "tintFill": true
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    },
+    "prefabProperties": [
+        {
+            "name": "minDegC",
+            "label": "Min Deg",
+            "tooltip": "Property 1",
+            "defValue": -135,
+            "customDefinition": true,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "maxDegC",
+            "label": "Max Deg",
+            "tooltip": "Property 1",
+            "defValue": -45,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "directionC",
+            "label": "DirectionC",
+            "tooltip": "Property 1",
+            "defValue": false,
+            "customDefinition": true,
+            "type": {
+                "id": "boolean"
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/arrow.png",
+                "type": "image",
+                "key": "arrow"
+            },
+            {
+                "url": "assets/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/field.jpg",
+                "type": "image",
+                "key": "field"
+            },
+            {
+                "url": "assets/goalP.png",
+                "type": "image",
+                "key": "goalP"
+            },
+            {
+                "url": "assets/PrefabArrow.js",
+                "type": "script",
+                "key": "PrefabArrow"
+            },
+            {
+                "url": "assets/PrefabBall.js",
+                "type": "script",
+                "key": "PrefabBall"
+            },
+            {
+                "url": "assets/stadium.jpg",
+                "type": "image",
+                "key": "stadium"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
